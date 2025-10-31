@@ -5,7 +5,7 @@
     "phone": "",
     "website": "https://jennarsalem.github.io",
     "summary": "Research Associate at UMass Chan Medical School",
-    "location":
+    "location": {
       "address": "",
       "postalCode": "",
       "city": "Worcester, MA",
@@ -32,9 +32,9 @@
       "courses": "Big Data Analysis, Anatomy and Physiology, Microbiology"
     }
   ],
-  "skills": "SOP development, Management, Laboratory Operations, Collaboration, Patient Communication, Flow Cytometry, ELISA, AKTA FPLC, DNA/RNA Manipulation"
+  "skills": "SOP development, Management, Laboratory Operations, Collaboration, Patient Communication, Flow Cytometry, ELISA, AKTA FPLC, DNA/RNA Manipulation",
   "languages": [],
-  "interests": "Cancer Biology, Clinical Trials, Immunotherapy, Patient Care, Science Communication"
+  "interests": "Cancer Biology, Clinical Trials, Immunotherapy, Patient Care, Science Communication",
   "references": [],
   "publications": [
     {
